@@ -7,9 +7,9 @@ albs QUAD-MOS 600 / 600D audio power amplifier module (mono single channel)
 
 ### Marketing-text:  
   
-Although the QUAD-MOS 600 with its continuous RMS power output of 600 watts is not exactly one of the weakest examples of its kind, it is by no means to be regarded as a pure "power amplifier". Rather, it was developed as a "high-end audiophile power amplifier" and is built exclusively from tightly toleranced components.
-Its strength lies not only in its extraordinary resolution and detailed, sensitive music reproduction, but also in its almost load-independent stability.
-This was achieved by a newly developed input circuit with an IC as well as a gege coupling line, which allows for a higher signal processing speed. Ten power transistors, interconnected by an aluminium plate on the output side, are driven by well-tried linear current mirror drivers. This configuration, in conjunction with 3 16A relays connected in parallel, ensures an enormous current potency, which on the one hand benefits power-hungry, inefficient loudspeaker cabinets, and on the other hand impedance-critical, low-impedance transducer systems, e.g. magnetostats.
+Although the QUAD-MOS 600 with its continuous RMS power output of 600 watts is not exactly one of the weakest examples of its kind, it is by no means to be regarded as a pure "power amplifier". Rather, it was developed as a "high-end audiophile power amplifier" and is built exclusively from tightly toleranced components.  
+Its strength lies not only in its extraordinary resolution and detailed, sensitive music reproduction, but also in its almost load-independent stability.  
+This was achieved by a newly developed input circuit with an op amp as well as a negative feedback line, which allows for a higher signal processing speed. Ten power transistors, interconnected by a massive aluminium plate on the output side, are driven by well-tried linear current mirror drivers. This configuration, in conjunction with three 16A relays connected in parallel, ensures an enormous current potency, which on the one hand benefits power-hungry, inefficient loudspeaker cabinets, and on the other hand impedance-critical, low-impedance transducer systems, e.g. magnetostats.  
 The features described below can only unsatisfactorily reflect the musicality and power of this product:
 * Balanced audio input (unbalanced input possible as well).
 * fully DC coupled
