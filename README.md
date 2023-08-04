@@ -70,7 +70,7 @@ third generation: Exicon ECW20N20 / ECW20P20 (200V / 16A / 250W) **TO-264  not y
 
 ----
 
-you can still buy it on ebay:  
+you can still buy it (the second generation) on ebay (as of 2023 Aug 01):  
 * QUAD-MOS 600 -> https://www.ebay.com/itm/254578318001  
 * QUAD-MOS 600D -> https://www.ebay.com/itm/254578347447  
 or directly from the manufacturer: -> https://albs.de   
